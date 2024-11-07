@@ -31,3 +31,4 @@ C:\Users\tommy\RiderProjects\testingdatabase\testingdatabase\obj\Debug\net8.0\re
 C:\Users\tommy\RiderProjects\testingdatabase\testingdatabase\obj\Debug\net8.0\testingdatabase.pdb
 C:\Users\tommy\RiderProjects\testingdatabase\testingdatabase\obj\Debug\net8.0\testingdatabase.genruntimeconfig.cache
 C:\Users\tommy\RiderProjects\testingdatabase\testingdatabase\obj\Debug\net8.0\ref\testingdatabase.dll
+C:\Users\tommy\RiderProjects\testingdatabase\testingdatabase\obj\Debug\net8.0\testingdatabase.sourcelink.json

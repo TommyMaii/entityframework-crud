@@ -4,3 +4,7 @@ GET {{testingdatabase_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{testingdatabase_HostAddress}}/users/
+
+###
